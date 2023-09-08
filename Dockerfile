@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.html/usr/share/nginx/html
+COPY deletetest/usr/share/nginx/html
